@@ -1,0 +1,120 @@
+div {
+  background-color: #c7f0db;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+
+}
+p{
+  font-family: 'Alef', sans-serif;
+  color: #fe346e;
+  font-size: 150%;
+
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  color: #004445;
+  font-size: 4em;
+
+}
+h2
+{
+  color:  #111d5e;
+  font-family: 'Alef', sans-serif;
+  font-size: 200%;
+  margin-top: 0;
+}
+
+.myskill1
+{
+  height: 40%;
+  width: 40%;
+  float: left;
+  margin-right: 40px;
+}
+.myskill2
+{
+  height: 40%;
+  width: 40%;
+  float: right;
+  margin-left: 40px;
+}
+.profile{
+  height:250px;
+  width: 250px;
+  margin:0 auto;
+  position: relative;
+  bottom:80px;
+}
+.topcloud {
+  position: absolute;
+  top: 60px;
+  right: 400px;
+}
+
+.bottomcloud {
+  position: absolute;
+  top: 270px;
+  left:380px;
+}
+a
+{
+  color:#004445;
+}
+.tag
+{
+  color:  #111d5e;
+}
+.college
+{
+  font-weight: normal;
+}
+.skill-row
+{
+  width: 50%;
+  margin:0 auto;
+  text-align: left;
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px  #004445;
+	/*background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);*/
+	background-color: #004445;;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 49px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 10%;
+    border-width: 7px;
+
+}
+h3
+{
+  color: #40514E;
+}
